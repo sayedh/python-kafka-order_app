@@ -1,4 +1,4 @@
-# Using Kafka to recieve and send message to Python apps
+# Using Kafka to recieve and send messages to Python apps
 In this project I built a food order app that generates orders, sends it to Kafka, and Kafka relays to the other apps.
 ![TerminalKafka](https://user-images.githubusercontent.com/30685241/184810166-f6004801-5fea-4cad-b559-ef6f6faf901b.jpg)
 
